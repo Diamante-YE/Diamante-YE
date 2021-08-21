@@ -15,6 +15,7 @@
 <p><span style="font-size: 11pt;">어떻게 하는지 잘 모르겠지만</span></p><p><span style="font-size: 11pt;">열심히 배워나가겠습니다.</span></p>
 <p><br></p><p><span style="font-size: 11pt; color: rgb(58, 50, 195);">그럼 모두 화이팅!! 아자아자!!</span></p>
 
-Diamante-YE/Diamante-YE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Diamante-YE/Diamante-YE is a ✨ special ✨ repository because its `README.md`
+(this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
